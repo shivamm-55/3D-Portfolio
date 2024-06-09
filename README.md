@@ -1,3 +1,6 @@
+![Screenshot 2024-06-09 180732](https://github.com/shivamm-55/3D-Portfolio/assets/108998384/5cfa04cb-ae06-4a2d-b423-19b73da901da)
+
+
 <h1 align="center">A 3D Developer Portfolio</h1>
 
 <h4 align="center">3D Portfolio is a well-designed and fully functional portfolio website that is built with React.js and Three.js. It is a fully responsive website that works well on all devices.</h4>
