@@ -1,80 +1,57 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
-      <img src="https://github.com/Shivamhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
-    </a>
-  <br />
+<h1 align="center">A 3D Developer Portfolio</h1>
 
+<h4 align="center">3D Portfolio is a well-designed and fully functional portfolio website that is built with React.js and Three.js. It is a fully responsive website that works well on all devices.</h4>
+
+
+<div align="center">
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A 3D Developer Portfolio</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>Shivam Mishra</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>Shivam Mishra</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
-## <a name="introduction">🤖 Introduction</a>
-
+## 🤖 Introduction
 By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+## ⚙️ Tech Stack
+- **React.js**
+- **Three.js**
+- **React Three Fiber**
+- **React Three Drei**
+- **Email JS**
+- **Vite**
+- **Tailwind CSS**
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## 🔋 Features
+👉 **Customizable 3D Hero Section:**  
+Includes a 3D desktop model easily customizable to suit specific needs.
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Email JS
-- Vite
-- Tailwind CSS
+👉 **Interactive Experience and Work Sections:**  
+Utilizes animations powered by framer motion for engaging user experience.
 
-## <a name="features">🔋 Features</a>
+👉 **3D Skills Section:**  
+Showcases skills using 3D geometries through three.js and React Three Fiber.
 
-👉 **Customizable 3D Hero Section**: Includes a 3D desktop model easily customizable to suit specific needs.
+👉 **Animated Projects and Testimonials:**  
+Features animated sections using framer motion for projects and client testimonials.
 
-👉 **Interactive Experience and Work Sections**: Utilizes animations powered by framer motion for engaging user experience.
+👉 **Contact Section with 3D Earth Model:**  
+Integrates a 3D earth model with email functionality powered by emailjs.
 
-👉 **3D Skills Section**: Showcases skills using 3D geometries through three.js and React Three fiber
+👉 **3D Stars:**  
+Generate stars progressively at random positions using Three.js for background display.
 
-👉 **Animated Projects and Testimonials**: Features animated sections using framer motion for projects and client testimonials.
+👉 **Consistent Animations:**  
+Implements cohesive animations throughout the website using framer motion.
 
-👉 **Contact Section with 3D Earth Model**:Integrates a 3D earth model with email functionality powered by emailjs.
+👉 **Responsive Design:**  
+Ensures optimal display and functionality across all devices.
 
-👉 **3D Stars**: Generate stars progressively at random positions using Three.js for background display.
-
-👉 **Consistent Animations**: Implements cohesive animations throughout the website using framer motion.
-
-👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
-
-and many more, including code architecture and reusability 
-
-## <a name="quick-start">🤸 Quick Start</a>
+... and many more, including code architecture and reusability.
 
 Follow these steps to set up the project locally on your machine.
 
@@ -86,29 +63,39 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
 
-```bash
-git clone git@github.com:Shivamhajdin/project_3D_developer_portfolio.git
-cd project_3D_developer_portfolio
-```
+## 🛠️ Installation
+To get started with the project, follow these steps:
 
-**Installation**
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/shivamm-55/3d-portfolio.git
+   cd 3d-portfolio
+   ```
 
-Install the project dependencies using npm:
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-```bash
-npm install
-```
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build the project for production:**
+   ```bash
+   npm run build
+   ```
 
 **Set Up Environment Variables**
 
 Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
-REACT_APP_EMAILJS_USERID=your_emailjs_user_id
-REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
-REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
+VITE_APP_EMAILJS_TEMPLATE_ID = your_emailjs_template_id
+VITE_APP_EMAILJS_SERVICE_ID = your_emailjs_service_id
+VITE_APP_EMAILJS_PUBLIC_KEY = your_emailjs_public_key
 ```
 
 Replace the placeholder values with your actual EmailJS credentials. You can obtain these credentials by signing up on the [EmailJS website](https://www.emailjs.com/).
@@ -128,7 +115,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ```javascript
 import {
-  mobile,
+  cloud,
   backend,
   creator,
   web,
@@ -144,14 +131,14 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
+  duzzie,
+  digi,
+  rstate,
   threejs,
+  ibm,
+  webs, 
+  angstromedu,
+  freelancer
 } from "../assets";
 
 export const navLinks = [
@@ -175,8 +162,8 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
+    title: "DevOps",
+    icon: cloud,
   },
   {
     title: "Backend Developer",
@@ -245,37 +232,37 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Technical Writer",
+    company_name: "Angstromedu",
+    icon: angstromedu,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "March 2021 - July 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Created and maintained comprehensive documentation for web applications developed with React.js and related technologies.",
+      "Collaborated with cross-functional teams, including designers, product managers, and developers, to gather information and ensure accuracy in documentation.",
+      "Developed user guides, API documentation, and training materials that facilitated responsive design and cross-browser compatibility.",
+      "Reviewed and edited documentation, providing constructive feedback to improve clarity and quality.",
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    company_name: "WEBs Technology",
+    icon: webs,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "June 2022 - Aug 2022",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Front End Developer",
+    company_name: "IBM",
+    icon: ibm,
+    iconBg: "#E6DEDD",
+    date: "June 2023 - July 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -285,10 +272,10 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "Freelancer",
+    icon: freelancer,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Aug 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -301,7 +288,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Shivam proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -309,48 +296,48 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "I've never met a web developer who truly cares about their clients' success like Shivam does.",
+    name: "Siddarath T.",
     designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    company: "WeClock",
+    image: "https://randomuser.me/api/portraits/men/7.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "After Shivam optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Sandip Gohil",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "Milople",
+    image: "https://randomuser.me/api/portraits/men/39.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Duzzie Saas Automation",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Duzzie SaaS Automation is a cutting-edge B2C SaaS platform designed to empower users to create custom automation workflows with ease.",
     tags: [
       {
-        name: "react",
+        name: "nextJS",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
-        color: "green-text-gradient",
+        name: "prismaORM",
+        color: "tan-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "tailwindCSS",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: duzzie,
+    source_code_link: "https://github.com/shivamm-55/Duzzie-Saas-Automation",
   },
   {
-    name: "Job IT",
+    name: "Digital MarketPlace",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Digital Marketplace is a comprehensive E-commerce platform built. It features a beautiful landing page, custom artwork, a full admin dashboard, and shopping cart.",
     tags: [
       {
         name: "react",
@@ -364,17 +351,21 @@ const projects = [
         name: "scss",
         color: "pink-text-gradient",
       },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: digi,
+    source_code_link: "https://github.com/shivamm-55/HippoSphere",
   },
   {
-    name: "Trip Guide",
+    name: "Real Estate",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "reactjs",
         color: "blue-text-gradient",
       },
       {
@@ -386,12 +377,13 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: rstate,
     source_code_link: "https://github.com/",
   },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
+
 ```
 </details>
 
@@ -699,6 +691,7 @@ export const staggerContainer = (staggerChildren, delayChildren) => {
   };
 };
 ```
+
 </details>
 
 <details>
@@ -730,7 +723,7 @@ export { styles };
 <summary><code>tailwind.config.cjs</code></summary>
 
 ```javascript
-/** @type {import('tailwindcss').Config} */
+/** /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./src/**/*.{js,jsx}"],
   mode: "jit",
@@ -743,6 +736,7 @@ module.exports = {
         "black-100": "#100d25",
         "black-200": "#090325",
         "white-100": "#f3f3f3",
+        darkblue : "#050816"
       },
       boxShadow: {
         card: "0px 35px 120px -15px #211e35",
@@ -761,29 +755,21 @@ module.exports = {
 
 </details>
 
-## <a name="links">🔗 Links</a>
 
-Models and Assets used in the project can be found [here](https://drive.google.com/drive/folders/1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z)
 
-## <a name="more">🚀 More</a>
+## 🎨 Customization
+Feel free to customize the 3D models and sections according to your requirements. The project is structured in a way that makes it easy to modify and extend.
 
-**Advance your skills with Next.js 14 Pro Course**
+## 📞 Contact Us
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+[![Telegram](https://img.shields.io/badge/Telegram-@shivx_444-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://https://t.me/+Hczo1daLHi0zOGRl)
 
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivx_444-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/shivam-mishra-x444/)
 
-<br />
-<br />
+[![Instagram](https://img.shields.io/badge/Instagram-shivx_444-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/shivx_444/)
 
-**Accelerate your professional journey with Expert Training program**
+[![Discord](https://img.shields.io/badge/Discord-shivx_444-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.gg/dJWbKr7a)
 
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
+[![Twitter](https://img.shields.io/twitter/follow/shivx_444.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa)
 
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
+Enjoy building your immersive 3D portfolio! 🚀
