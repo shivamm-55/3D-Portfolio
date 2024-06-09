@@ -765,7 +765,7 @@ Feel free to customize the 3D models and sections according to your requirements
 
 ## 📞 Contact Us
 
-[![Telegram](https://img.shields.io/badge/Telegram-@shivx_444-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://https://t.me/+Hczo1daLHi0zOGRl)
+[![Telegram](https://img.shields.io/badge/Telegram-@shivx_444-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/shivxtriedcoding)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivx_444-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/shivam-mishra-x444/)
 
